@@ -1,0 +1,3 @@
+git branch / crea una rama paralela a la rama principal
+
+git merge / combina con la principal
